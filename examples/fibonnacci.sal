@@ -1,0 +1,13 @@
+BO
+LO.A.#0
+LO.B.#1
+LO.C.#1
+WHL.#255
+    CLR
+    NS.Z.$C
+    PR.$Z
+    ADD.A.$B.$C
+    LO.B.$C
+    LO.C.$A
+    DL.#7.#215
+FI

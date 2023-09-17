@@ -1,8 +1,0 @@
-BO
-PR."HELLO WORLD"
-WHL.#255
-    BF
-    DL.#7.#215
-    BO
-    DL.#7.#215
-FI
