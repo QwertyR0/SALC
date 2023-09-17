@@ -10,7 +10,7 @@ The first prototype:
 SALC uses the programming language I constructed: "SAL" 
 And obviously it is inspired from Duo tiny's programming language.
 
-But unlike DTPL, its commands are seperated with spaces and it arguments are seperated with dots. You can quite literally change any value in the source code to make it act however you want.
+But unlike DTPL, its commands are seperated with spaces and its arguments are seperated with dots. You can quite literally change any value in the source code to make it act however you want.
 It was very entertaining for me to work on this project, it also made me learn a lot.  
   
 More about the SALC is on the way!
